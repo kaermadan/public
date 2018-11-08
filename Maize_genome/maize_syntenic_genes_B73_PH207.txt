@@ -1,0 +1,214 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-PkbtxdWDpLChpxtWQ0KbvJoef4XMYPq5pfd/ZmylYZTzXYpCfGwN9d+bsSKcmOJLwTkfjFkfj5wz3poDrhJoSQ==" rel="stylesheet" href="https://assets.github.umn.edu/assets/frameworks-f6e6ce21346c0d2eb22def1e8534afcb.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-MwC2WN5i5oItFPM2T3mF5lPVXpZR3l1dU3hKYv6KxxUl52ITNRKOhryrmviC6sb4cE6Gc1FUBTlsqNCApUXJpQ==" rel="stylesheet" href="https://assets.github.umn.edu/assets/github-4704ef5c7022347786ec4114f51000df.css" />
+  
+  
+  <link crossorigin="anonymous" media="all" integrity="sha512-zyxweUSm/NG+juywqcMFSS4HbKjLWCZyEM2JjoCqnQUU6RVrHpHMwH66xreiaeMIRoA6vYuk0hm8S1X42r/YWQ==" rel="stylesheet" href="https://assets.github.umn.edu/assets/site-220df28424b63d1e24f3bd909efebe81.css" />
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Sign in via LDAP · GitHub</title>
+    <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.umn.edu/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta property="og:url" content="https://github.umn.edu">
+    <meta property="og:site_name" content="GitHub">
+    <meta property="og:title" content="Build software better, together">
+    <meta property="og:description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
+    <meta property="og:image" content="https://assets.github.umn.edu/images/modules/open_graph/github-logo.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="1200">
+    <meta property="og:image" content="https://assets.github.umn.edu/images/modules/open_graph/github-mark.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="620">
+    <meta property="og:image" content="https://assets.github.umn.edu/images/modules/open_graph/github-octocat.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="620">
+
+
+  <link rel="assets" href="https://assets.github.umn.edu/">
+  
+  <meta name="pjax-timeout" content="1000">
+  
+  <meta name="request-id" content="2fcb5e08-567c-4551-b02e-0cebabe73ee7" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="/login" data-pjax-transient>
+
+  
+
+<meta name="analytics-location-query-strip" content="true" data-pjax-transient="true" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+  
+
+      <meta name="hostname" content="github.umn.edu">
+    <meta name="user-login" content="">
+
+
+
+  <meta name="html-safe-nonce" content="1c5e0b040cac09b65090787a29bda125e348c221">
+
+  <meta http-equiv="x-pjax-version" content="b710256b43687bf4c37de0069aa1e223">
+  
+
+    <meta name="description" content="GitHub is where people build software. More than 28 million people use GitHub to discover, fork, and contribute to over 85 million projects.">
+
+    <link rel="canonical" href="https://github.umn.edu/login" data-pjax-transient>
+
+
+
+  <link rel="mask-icon" href="https://assets.github.umn.edu/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets.github.umn.edu/favicon-ent.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out enterprise env-production page-responsive min-width-0 session-authentication">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+      <div class="header header-logged-out width-full pt-5 pb-4" role="banner">
+  <div class="container clearfix width-full text-center">
+    <a class="header-logo" href="https://github.umn.edu/" aria-label="Homepage">
+      <img alt="GitHub Enterprise logo" src="https://assets.github.umn.edu/images/modules/enterprise/gh-enterprise-logo.svg" width="204">
+    </a>
+  </div>
+</div>
+
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+  <div role="main" class="application-main ">
+      
+      <div id="js-pjax-container" data-pjax-container>
+        
+
+<div class="auth-form px-3" id="login">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/session" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="y3AC9gU5+88Il7t9/z0s5onHeYAOgXAuAyXaaLaVUFxMrHDQqI5kCvOYRLk1eBHMmXLwHrNLy2RW+Hj1cKx3kg==" />      <div class="auth-form-header p-0">
+        <h1>Sign in via LDAP</h1>
+      </div>
+
+
+      <div id="js-flash-container">
+</div>
+
+
+      <div class="auth-form-body mt-3">
+
+        <label for="login_field">
+          Username
+        </label>
+        <input type="text" name="login" id="login_field" class="form-control input-block" tabindex="1" autocapitalize="off" autocorrect="off" autofocus="autofocus" />
+
+        <label for="password">
+          Password 
+        </label>
+        <input type="password" name="password" id="password" class="form-control form-control input-block" tabindex="2" />
+
+        <input type="submit" name="commit" value="Sign in" tabindex="3" class="btn btn-primary btn-block" data-disable-with="Signing in…" />
+      </div>
+</form>
+
+</div>
+
+      </div>
+      <div class="modal-backdrop js-touch-events"></div>
+  </div>
+
+      <div class="footer container-lg p-responsive py-6 mt-6 f6" role="contentinfo">
+    <ul class="list-style-none d-flex flex-justify-center">
+        <li class="mr-3"><a href="https://help.github.com/enterprise/2.14" class="link-gray">Help</a></li>
+          <li class="mr-3"><a href="mailto:help@umn.edu" class="link-gray">Support</a></li>
+    </ul>
+  </div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" integrity="sha512-AJroIDzeBTsez82UXWwVAmoSz2nKhws/uQvJ8aKfadJZcvL83MIXMjRYm7MVZaKSNXvifa/OGpn54kiDBKpyLw==" type="application/javascript" src="https://assets.github.umn.edu/assets/compat-37e9ce8318a51dd51033283da82c8546.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-Y/6JVISViE/uQlAhE3EjLAvMXViwpQGiecFu0xHpn7RWdk1mqtKGoSekaM72k1kmk7G2KmBXaIcfBWGkRePTbg==" type="application/javascript" src="https://assets.github.umn.edu/assets/frameworks-cc18cf561f3c0071f312a3167febdc24.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-3UHHHKUuIPxUkYhUKVv+ed5WQttSV9SPz8Vc7IM14GujcLGtKrHSYSIaHHYZXTX6f2LRBx2xEmGparlON/c23Q==" type="application/javascript" src="https://assets.github.umn.edu/assets/github-b68d88bc4c4844e0a20391886a1372bd.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
